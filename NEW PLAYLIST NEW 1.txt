@@ -63,8 +63,8 @@ http://live.olidigital.in/timetv/timetv/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="utv" tvg-name="U TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/U-TV-/main/u%20tv.jpg",U TV
 http://stream.galaxyott.live/live/utv/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
-http://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-name="AARTHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AARTHI-TV/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_26_31%20AM.png",AARTHI TV
+rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
 
 #EXTINF:-1 tvg-chno="23" tvg-id="sanaplustv" tvg-name="Sana Plus TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Sana-plus-TV/main/SANA%20PLUS.jpg",Sana Plus TV
 http://galaxyott.live/hls/sanaplus.m3u8
@@ -308,5 +308,6 @@ https://view.rcserver.in/tmp_hls20/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-name="Kavin TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/kavin-tv-/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_15_53%20AM.png",Kavin TV
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-chno="103" tvg-name="AARTHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AARTHI-TV/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_26_31%20AM.png",AARTHI TV
-rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
+#EXTINF:-1 tvg-chno="103" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
+http://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
