@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="01" tvg-id="mkptv" tvg-name="MKP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/MKP-CLOUD/main/MKP%20TV.png",MKP TV
-http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
+rtmp://mkpcloud.playit.plus:1024/mkptv/myStream
 
 #EXTINF:-1 tvg-chno="02" tvg-id="kanchitv" tvg-name="KANCHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KANCHITV/main/33.jpg",KANCHI TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
@@ -304,3 +304,9 @@ https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 
 #EXTINF:-1 tvg-chno="101" tvg-name="Jayam TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/JAYAM-TV-2/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2009_10_59%20PM.png",Jayam TV
 https://view.rcserver.in/tmp_hls20/index.m3u8
+
+#EXTINF:-1 tvg-chno="102" tvg-name="Kavin TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/kavin-tv-/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_15_53%20AM.png",Kavin TV
+http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-chno="103" tvg-name="AARTHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AARTHI-TV/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_26_31%20AM.png",AARTHI TV
+rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
