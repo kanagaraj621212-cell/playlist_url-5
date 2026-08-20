@@ -309,5 +309,5 @@ https://view.rcserver.in/tmp_hls20/index.m3u8
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-chno="103" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
-http://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
