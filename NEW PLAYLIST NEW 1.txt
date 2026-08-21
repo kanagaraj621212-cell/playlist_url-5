@@ -312,3 +312,6 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-id="yetmusic" tvg-name="Yet Music" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/yet-music/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2004_48_41%20PM.png" group-title="Tamil",Yet Music
 https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
 
+#EXTINF:-1 tvg-id="aathitv" tvg-name="Aathi TV" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AATHI-TV/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2005_01_45%20PM.png" group-title="Tamil",Aathi TV
+https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
+
