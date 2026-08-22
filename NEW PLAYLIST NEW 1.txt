@@ -151,7 +151,7 @@ https://play.applelive.in/shatv/shatv.m3u8
 https://notvstream.in/queens/queens/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-name="Aadhavan TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AADHAVAN-TV/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2009_14_11%20PM.png",Aadhavan TV
-https://view.apserver.in/tmp_hls3/aadhavantv/index.m3u8
+http://mkpcloud.playit.plus:1024/Aadhavantv/Aadhavantv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-name="Aadhavan Colours" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AADHAVAN-TV-2/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2009_19_37%20PM.png",Aadhavan Colours
 http://mkpcloud.playit.plus:1024/AadhavanColours/AadhavanColours.stream/playlist.m3u8
