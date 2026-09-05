@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-chno="01" tvg-id="mkptv" tvg-name="MKP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/MKP-CLOUD/main/MKP%20TV.png",MKP TV
 http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="02" tvg-id="kanchitv" tvg-name="KANCHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KANCHITV/main/33.jpg",KANCHI TV
-http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="02" tvg-name="AARTHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AARTHI-TV/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_26_31%20AM.png",AARTHI TV
+rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
 
-#EXTINF:-1 tvg-chno="03" tvg-id="akashtv" tvg-name="AKASH TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AKASH-TV-/main/akash%20tv.jpg",AKASH TV
-http://account2.livebox.co.in/AkashTvhls/live.m3u8
+#EXTINF:-1 tvg-chno="03" tvg-id="kanchitv" tvg-name="KANCHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KANCHITV/main/33.jpg",KANCHI TV
+http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-chno="04" tvg-id="darktv" tvg-name="DARK TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/DARK-TV-/main/dark.jpg",DARK TV
 http://applelive.in/darktv/darktv.m3u8
 
-#EXTINF:-1 tvg-chno="05" tvg-id="harintv" tvg-name="HARIN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/HARIN-TV/main/HARINI%20TV.jpg",HARIN TV
-https://ipcloud.live/harintv/harintvhd/index.m3u8
+#EXTINF:-1 tvg-chno="05" tvg-name="Aadhavan TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AADHAVAN-TV/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2009_14_11%20PM.png",Aadhavan TV
+http://mkpcloud.playit.plus:1024/Aadhavantv/Aadhavantv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="06" tvg-id="kctv" tvg-name="KC TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KC-TV-/main/kc%20tv.jpg",KC TV
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
@@ -63,8 +63,8 @@ http://live.olidigital.in/timetv/timetv/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="utv" tvg-name="U TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/U-TV-/main/u%20tv.jpg",U TV
 http://stream.galaxyott.live/live/utv/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-name="AARTHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AARTHI-TV/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_26_31%20AM.png",AARTHI TV
-rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
+#EXTINF:-1 tvg-chno="22" tvg-id="akashtv" tvg-name="AKASH TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AKASH-TV-/main/akash%20tv.jpg",AKASH TV
+http://account2.livebox.co.in/AkashTvhls/live.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="sanaplustv" tvg-name="Sana Plus TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Sana-plus-TV/main/SANA%20PLUS.jpg",Sana Plus TV
 http://galaxyott.live/hls/sanaplus.m3u8
@@ -150,8 +150,8 @@ https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-name="Namakkal Queens TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/namakkal-tv/main/namakkal%20tv.png",Namakkal Queens TV
 https://notvstream.in/queens/queens/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-name="Aadhavan TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AADHAVAN-TV/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2009_14_11%20PM.png",Aadhavan TV
-http://mkpcloud.playit.plus:1024/Aadhavantv/Aadhavantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="harintv" tvg-name="HARIN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/HARIN-TV/main/HARINI%20TV.jpg",HARIN TV
+https://ipcloud.live/harintv/harintvhd/index.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-name="Aadhavan Colours" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AADHAVAN-TV-2/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2009_19_37%20PM.png",Aadhavan Colours
 http://mkpcloud.playit.plus:1024/AadhavanColours/AadhavanColours.stream/playlist.m3u8
