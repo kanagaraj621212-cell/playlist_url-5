@@ -4,7 +4,7 @@
 http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="02" tvg-name="AARTHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AARTHI-TV/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_26_31%20AM.png",AARTHI TV
-rtmp://198.144.149.206:1935/NOTV/AARTHITV?token=GTR
+http://mkpcloud.playit.plus:1024/aarthitv/aarthitv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="03" tvg-id="kanchitv" tvg-name="KANCHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KANCHITV/main/33.jpg",KANCHI TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
