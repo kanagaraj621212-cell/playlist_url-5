@@ -315,7 +315,7 @@ https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
 #EXTINF:-1 tvg-id="aathitv" tvg-name="Aathi TV" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AATHI-TV/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2005_01_45%20PM.png" group-title="Tamil",Aathi TV
 https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="106" tvg-id="d bhakhi TV" tvg-name="D TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/d%20tv.jpg",D TV
-https://stream.d6-pro.com/dbhakthi/live/index.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="d bhakthi TV" tvg-name="D TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/d%20tv.jpg",D TV
+https://stream.d6-pro.com/dbhakhi/live/index.m3u8
 
 
