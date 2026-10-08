@@ -198,8 +198,8 @@ https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="AppleTV1" tvg-name="Apple TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/APPLE-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_55_36%20AM.png" group-title="Tamil",Apple TV
 https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-id="JeysonTV" tvg-name="Jeyson TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jeyson-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_05_32%20PM.png" group-title="Tamil",Jeyson TV
-https://play.applelive.in/jeysontv/jeysontv.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="Tunes6music" tvg-name="Tunes6 music" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/ChatGPT%20Image%20Oct%207%2C%202026%2C%2008_40_38%20PM.png",Tunes6music
+https://stream.d6-pro.com/Tunes6music/live/index.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="AppleTV2" tvg-name="Apple TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/APPLE-TV-2/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_20_01%20PM.png" group-title="Tamil",Apple TV
 https://web.applelive.in/stream/appletv/index.m3u8
@@ -315,8 +315,8 @@ https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
 #EXTINF:-1 tvg-id="aathitv" tvg-name="Aathi TV" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AATHI-TV/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2005_01_45%20PM.png" group-title="Tamil",Aathi TV
 https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="106" tvg-id="Tunes6music" tvg-name="Tunes6 music" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/ChatGPT%20Image%20Oct%207%2C%202026%2C%2008_40_38%20PM.png",Tunes6music
-https://stream.d6-pro.com/Tunes6music/live/index.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="JeysonTV" tvg-name="Jeyson TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jeyson-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_05_32%20PM.png" group-title="Tamil",Jeyson TV
+https://play.applelive.in/jeysontv/jeysontv.m3u8
 
 #EXTINF:-1 tvg-chno="107" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
