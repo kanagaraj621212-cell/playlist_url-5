@@ -306,7 +306,7 @@ https://view.rcserver.in/tmp_hls20/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-name="Kavin TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/kavin-tv-/main/ChatGPT%20Image%20Aug%209%2C%202026%2C%2010_15_53%20AM.png",Kavin TV
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-chno="103" tvg-id="d bhakthi TV" tvg-name="D TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/d%20tv.jpg",D TV
+#EXTINF:-1 tvg-chno="103" tvg-id="D bhakthi TV" tvg-name="D bhakthi TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/d%20tv.jpg",D bhakthi TV
 https://stream.d6-pro.com/dbhakhi/live/index.m3u8
 
 #EXTINF:-1 tvg-id="yetmusic" tvg-name="Yet Music" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/yet-music/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2004_48_41%20PM.png" group-title="Tamil",Yet Music
@@ -315,7 +315,10 @@ https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
 #EXTINF:-1 tvg-id="aathitv" tvg-name="Aathi TV" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AATHI-TV/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2005_01_45%20PM.png" group-title="Tamil",Aathi TV
 https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="106" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
+#EXTINF:-1 tvg-chno="106" tvg-id="Tunes6music" tvg-name="Tunes6 music" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/ChatGPT%20Image%20Oct%207%2C%202026%2C%2008_40_38%20PM.png",Tunes6music
+https://stream.d6-pro.com/Tunes6music/live/index.m3u8
+
+#EXTINF:-1 tvg-chno="107" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
 
