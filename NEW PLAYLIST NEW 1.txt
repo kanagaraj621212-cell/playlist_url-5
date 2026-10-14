@@ -96,14 +96,8 @@ http://live.maxtn.in/moontv/moontv/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="kumaritv" tvg-name="Kumari TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Kumari-TV-/main/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2007_57_48%20AM.png",Kumari TV
 http://play.applelive.in/kumaritv/gvkumaritv.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="maxmoviestv" tvg-name="Max Movies TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Max-Movies-TV-/main/max%20tv.jpg",Max Movies TV
-http://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-
 #EXTINF:-1 tvg-chno="34" tvg-id="7greentv" tvg-name="7GREEN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/7GREEN-TV/main/7%20GREEN%20%20TV.png",7GREEN TV
 http://account33.livebox.co.in/7GREEN4Khls/live.m3u8
-
-#EXTINF:-1 tvg-chno="35" tvg-id="maxmusictv" tvg-name="Max Music TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Max-Music-TV/main/MAX%20MUSIX.png",Max Music TV
-http://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 
 #EXTINF:-1 tvg-chno="36" tvg-id="acptv" tvg-name="ACP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/ACP-TV/main/ACP%20TV.png",ACP TV
 http://anywhere.pwisetthon.com/http://103.87.105.51:8080/acphd/acphd.m3u8?psk=123456
@@ -117,17 +111,11 @@ http://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="prtv" tvg-name="PR TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/PR-TV/main/PR%20TV.png",PR TV
 http://play.applelive.in/prtv/prtv.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-id="phoenixtv" tvg-name="Phoenix TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Phoenix-Tv/main/Phoenix%20tv.jpg",Phoenix TV
-http://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
-
 #EXTINF:-1 tvg-chno="41" tvg-id="skytv" tvg-name="SKY TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SKY-TV-/main/SKY%20TV%20(2).png",SKY TV
 http://ipcloud.live/skytv/skytv/index.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-id="vasanthamtv" tvg-name="Vasantham TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Vasantham-TV-/main/VASANTHAM%20TV.png",Vasantham TV
 http://stream.onecloudlive.in/dhandapani/vasanthamtv/index.m3u8
-
-#EXTINF:-1 tvg-chno="43" tvg-id="apstv" tvg-name="APS TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/APS-TV/main/aps%20tv.jpg",APS TV
-http://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-id="isaihdtv" tvg-name="Isai HD TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/isai-hd-TV/main/ISAI%20TV.png",Isai HD TV
 http://server.sscloud7.in/isaihd/isaihd/index.m3u8
@@ -146,9 +134,6 @@ https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="49" tvg-name="Sha TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SHASA-TV/main/SHA%20TV.jpg",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
-
-#EXTINF:-1 tvg-chno="50" tvg-name="Namakkal Queens TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/namakkal-tv/main/namakkal%20tv.png",Namakkal Queens TV
-https://notvstream.in/queens/queens/index.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-id="harintv" tvg-name="HARIN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/HARIN-TV/main/HARINI%20TV.jpg",HARIN TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
@@ -171,47 +156,23 @@ https://stream.onecloudlive.in/threestartv/threestarhd/index.mpd
 #EXTINF:-1 tvg-chno="57" tvg-id="ShaliniTV" tvg-name="Shalini TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/ShaliniTVTiruvannamalai/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2009_34_59%20AM.png" group-title="Tamil",Shalini TV
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-id="JCVTV" tvg-name="JCV TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jvc-tv-/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2010_53_08%20AM.png" group-title="Tamil",JCV TV
-https://play.applelive.in/jcvtv/jcvtv.m3u8
-
 #EXTINF:-1 tvg-chno="59" tvg-id="SpiceTV" tvg-name="Spice TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SPICE-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_06_28%20AM.png" group-title="Tamil",Spice TV
 https://stream.onecloudlive.in/spicetv/spicetv/index.mpd
 
 #EXTINF:-1 tvg-chno="60" tvg-id="EagleTV" tvg-name="Eagle TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/eagletv/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_17_13%20AM.png" group-title="Tamil",Eagle TV
 https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-id="JCVMusixTV" tvg-name="JCV Musix TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jcv-music/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2010_56_09%20AM.png" group-title="Music",JCV Musix TV
-https://play.applelive.in/jcvtv/jcvmusix.m3u8
-
 #EXTINF:-1 tvg-chno="62" tvg-id="MathiTV" tvg-name="Mathi TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/MATHI-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_29_12%20AM.png" group-title="Tamil",Mathi TV
 https://notvstream.in/mathitv/mathitv/index.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-id="AnbuTV" tvg-name="Anbu TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/ANBU-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_34_13%20AM.png" group-title="Tamil",Anbu TV
-https://ipcloud.live/anbutv/anbutvhd/index.m3u8
-
-#EXTINF:-1 tvg-chno="64" tvg-id="KingTV2" tvg-name="King TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KING-TV-2/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_45_41%20AM.png" group-title="Tamil",King TV
-https://notvstream.in/kingtv/kingtv/index.m3u8
-
 #EXTINF:-1 tvg-chno="65" tvg-id="DuraiTV" tvg-name="Durai TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/DURAI-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_51_51%20AM.png" group-title="Tamil",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
-
-#EXTINF:-1 tvg-chno="66" tvg-id="AppleTV1" tvg-name="Apple TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/APPLE-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2011_55_36%20AM.png" group-title="Tamil",Apple TV
-https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-id="Tunes6music" tvg-name="Tunes6 music" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/ChatGPT%20Image%20Oct%207%2C%202026%2C%2008_40_38%20PM.png",Tunes6music
 https://stream.d6-pro.com/Tunes6music/live/index.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="AppleTV2" tvg-name="Apple TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/APPLE-TV-2/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_20_01%20PM.png" group-title="Tamil",Apple TV
 https://web.applelive.in/stream/appletv/index.m3u8
-
-#EXTINF:-1 tvg-chno="69" tvg-id="JJMaxTV" tvg-name="JJ Max TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/JJ-MAX-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_24_26%20PM.png" group-title="Tamil",JJ Max TV
-https://play.applelive.in/jjmax/jjmax.m3u8
-
-#EXTINF:-1 tvg-chno="70" tvg-id="SelfeeTV" tvg-name="Selfee TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Selfee-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_28_03%20PM.png" group-title="Tamil",Selfee TV
-https://play.applelive.in/selfeetv/selfeetv.m3u8
-
-#EXTINF:-1 tvg-chno="71" tvg-id="JCTV" tvg-name="JC TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jc-tv/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_37_48%20PM.png" group-title="Tamil",JC TV
-https://play.applelive.in/jctv/jctv.m3u8
 
 #EXTINF:-1 tvg-chno="72" tvg-id="VeeraTV" tvg-name="Veera TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/veera-tv/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_45_28%20PM.png" group-title="Tamil",Veera TV
 https://ipcloud.live/veeratv/veeratvhd/index.m3u8
@@ -249,14 +210,8 @@ https://app.ashokadigital.net/app/78b1bc36/index.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-name="Oscar TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Oscar-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2009_39_10%20AM.png",Oscar TV
 https://account21.livebox.co.in/oscartvhls/live.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-name="Jeyan TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jeyan-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2009_59_31%20AM.png",Jeyan TV
-https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
-
 #EXTINF:-1 tvg-chno="85" tvg-name="Vidyal TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Vidyal-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2010_07_27%20AM.png",Vidyal TV
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
-
-#EXTINF:-1 tvg-chno="86" tvg-name="Pothigai Thendral" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Pothigai-Thendral/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2010_15_33%20AM.png",Pothigai Thendral
-https://ipcloud.live/pothigai/thendral/index.m3u8
 
 #EXTINF:-1 tvg-chno="87" tvg-name="JRP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/JRP-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2007_26_34%20PM.png",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
@@ -309,17 +264,8 @@ http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-chno="103" tvg-id="D bhakthi TV" tvg-name="D bhakthi TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/Neon%20Dbhai%20Logo%20on%20Geometric%20Streaks.png?utm_source=chatgpt.com",D bhakthi TV
 https://stream.d6-pro.com/dbhakhi/live/index.m3u8
 
-#EXTINF:-1 tvg-id="yetmusic" tvg-name="Yet Music" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/yet-music/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2004_48_41%20PM.png" group-title="Tamil",Yet Music
-https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
-
 #EXTINF:-1 tvg-id="aathitv" tvg-name="Aathi TV" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AATHI-TV/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2005_01_45%20PM.png" group-title="Tamil",Aathi TV
 https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="106" tvg-id="JeysonTV" tvg-name="Jeyson TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/jeyson-TV/main/ChatGPT%20Image%20Jul%2029%2C%202026%2C%2012_05_32%20PM.png" group-title="Tamil",Jeyson TV
-https://play.applelive.in/jeysontv/jeysontv.m3u8
-
-#EXTINF:-1 tvg-chno="107" tvg-id="yettv" tvg-name="YET TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/YET-TV-/main/yet%20tv.jpg",YET TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
 #EXTINF:-1 tvg-id="3393" tvg-name-ta="NTC டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai;Thanjavur" group-title="PLC" tvg-chno="110",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
@@ -341,8 +287,6 @@ https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 #EXTINF:-1 tvg-id="MoonTV" tvg-name-ta="மூன் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MoonTVNew.png" tvg-region="Tirunelveli" group-title="PLC" tvg-chno="134",Moon TV
 https://live.sscloud7.in/live/moontv/index.m3u8
 
-#EXTINF:-1 tvg-id="SakthiTV" tvg-name-ta="சக்தி டிவி (கடலூர்)" tvg-logo="https://sscloud7.in/rasinetwork/sakthitv.png" tvg-region="Cuddalore" group-title="PLC" tvg-chno="137",Sakthi TV
-https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 tvg-id="PrimeTV" tvg-name-ta="ப்ரைம் டிவி" tvg-logo="" tvg-region="Nagapattinam" group-title="PLC" tvg-chno="138",Prime TV
 https://live.applelive.in/primetv/primetv/index.m3u8
 #EXTINF:-1 tvg-id="DeivaOli" tvg-name-ta="தெய்வ ஒளி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DeivaOli.png" tvg-region="Thoothukudi" group-title="PLC" tvg-chno="139",Deiva Oli
