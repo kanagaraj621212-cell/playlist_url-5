@@ -9,7 +9,7 @@ http://mkpcloud.playit.plus:1024/Aadhavantv/Aadhavantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="03" tvg-id="kanchitv" tvg-name="KANCHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KANCHITV/main/33.jpg",KANCHI TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-id="CrayonzTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" tvg-region="Chennai" group-title="PLC" tvg-chno="04",Crayonz TV
+#EXTINF:-1 tvg-id="CrayonzTV" tvg-name-ta="டிவி" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/crayonz-tv/main/Crayonz%20TV%20Neon%20Gradient%20Logo.png" tvg-region="Chennai" group-title="PLC" tvg-chno="04",Crayonz TV
 https://sanplayout.xyz/live2/crayonztv/index.m3u8
 
 #EXTINF:-1 tvg-chno="05" tvg-name="Orange TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/orange-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2008_52_13%20AM.png",Orange TV
