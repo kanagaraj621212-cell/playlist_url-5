@@ -91,7 +91,7 @@ http://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
 http://live1.sscloud7.com/live/omsakthitv/index.mpd
 
 #EXTINF:-1 tvg-chno="31" tvg-id="moontv" tvg-name="Moon TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Moon-TV/main/MOON%20TV.png",Moon TV
-http://live.maxtn.in/moontv/moontv/index.m3u8
+https://live.sscloud7.in/live/moontv/index.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-id="kumaritv" tvg-name="Kumari TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Kumari-TV-/main/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2007_57_48%20AM.png",Kumari TV
 http://play.applelive.in/kumaritv/gvkumaritv.m3u8
@@ -124,16 +124,10 @@ http://server.sscloud7.in/isaihd/isaihd/index.m3u8
 http://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 
 #EXTINF:-1 tvg-chno="42" tvg-id="gemtv" tvg-name="GEM TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/GEM-TV/main/gem.jpg",GEM TV
-http://gemtv.circlea7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
+https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimeMusicHD" tvg-name="Prime Music HD" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Prime-Music-HD/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2004_32_02%20PM.png",Prime Music HD
 https://live.primestream.in/prime/music/index.m3u8
-
-#EXTINF:-1 tvg-chno="44" tvg-name="Sailam TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SALAM-TV/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2008_48_49%20PM.png",Sailam TV
-https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
-
-#EXTINF:-1 tvg-chno="45" tvg-name="Sha TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SHASA-TV/main/SHA%20TV.jpg",Sha TV
-https://play.applelive.in/shatv/shatv.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="harintv" tvg-name="HARIN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/HARIN-TV/main/HARINI%20TV.jpg",HARIN TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
@@ -194,9 +188,6 @@ https://notvstream.in/hitechtv/hitechtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="65" tvg-id="darktv" tvg-name="DARK TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/DARK-TV-/main/dark.jpg",DARK TV
 http://applelive.in/darktv/darktv.m3u8
-
-#EXTINF:-1 tvg-chno="66" tvg-name="Aasai TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Aasai-TV-/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2008_59_17%20AM.png",Aasai TV
-https://notvstream.in/aasaitv/aasaitv/index.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-name="Rainbow TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Rainbow-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2009_06_27%20AM.png",Rainbow TV
 https://notvstream.in/rainbowtv/rainbowtv/index.m3u8
@@ -283,9 +274,6 @@ https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 
 #EXTINF:-1 tvg-id="3550" tvg-name-ta="நிஜம் டிவி" tvg-logo="https://tamiltvchannels.com/img/devotional/Nijam%20TV.png" tvg-region="Valliyur;Tirunelveli" group-title="Christian Devotional" tvg-chno="95",Nijam TV [IndiaMatrix]
 https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
-
-#EXTINF:-1 tvg-id="MoonTV" tvg-name-ta="மூன் டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MoonTVNew.png" tvg-region="Tirunelveli" group-title="PLC" tvg-chno="96",Moon TV
-https://live.sscloud7.in/live/moontv/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimeTV" tvg-name-ta="ப்ரைம் டிவி" tvg-logo="" tvg-region="Nagapattinam" group-title="PLC" tvg-chno="97",Prime TV
 https://live.applelive.in/primetv/primetv/index.m3u8
