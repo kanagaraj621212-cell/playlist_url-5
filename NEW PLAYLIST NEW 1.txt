@@ -93,9 +93,6 @@ http://live1.sscloud7.com/live/omsakthitv/index.mpd
 #EXTINF:-1 tvg-chno="31" tvg-id="moontv" tvg-name="Moon TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Moon-TV/main/MOON%20TV.png",Moon TV
 https://live.sscloud7.in/live/moontv/index.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="kumaritv" tvg-name="Kumari TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Kumari-TV-/main/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2007_57_48%20AM.png",Kumari TV
-http://play.applelive.in/kumaritv/gvkumaritv.m3u8
-
 #EXTINF:-1 tvg-chno="33" tvg-id="7greentv" tvg-name="7GREEN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/7GREEN-TV/main/7%20GREEN%20%20TV.png",7GREEN TV
 http://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 
@@ -107,9 +104,6 @@ http://anywhere.pwisetthon.com/http://103.87.105.51:8080/acpclassic/acpclassic.m
 
 #EXTINF:-1 tvg-chno="36" tvg-id="successtv" tvg-name="Success TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Success-TV/main/SUCCSSI%20%20TV.png",Success TV
 http://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
-
-#EXTINF:-1 tvg-chno="37" tvg-id="prtv" tvg-name="PR TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/PR-TV/main/PR%20TV.png",PR TV
-http://play.applelive.in/prtv/prtv.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-id="skytv" tvg-name="SKY TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SKY-TV-/main/SKY%20TV%20(2).png",SKY TV
 http://ipcloud.live/skytv/skytv/index.m3u8
@@ -128,6 +122,9 @@ https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlis
 
 #EXTINF:-1 tvg-id="PrimeMusicHD" tvg-name="Prime Music HD" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Prime-Music-HD/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2004_32_02%20PM.png",Prime Music HD
 https://live.primestream.in/prime/music/index.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-name="Sailam TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SALAM-TV/main/ChatGPT%20Image%20Jul%2026%2C%202026%2C%2008_48_49%20PM.png",Sailam TV
+https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="harintv" tvg-name="HARIN TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/HARIN-TV/main/HARINI%20TV.jpg",HARIN TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
@@ -185,9 +182,6 @@ https://notvstream.in/anandamtv/anandamtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-name="Hitech TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Hitech-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2008_45_38%20AM.png",Hitech TV
 https://notvstream.in/hitechtv/hitechtv/index.m3u8
-
-#EXTINF:-1 tvg-chno="65" tvg-id="darktv" tvg-name="DARK TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/DARK-TV-/main/dark.jpg",DARK TV
-http://applelive.in/darktv/darktv.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-name="Rainbow TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Rainbow-TV/main/ChatGPT%20Image%20Jul%2030%2C%202026%2C%2009_06_27%20AM.png",Rainbow TV
 https://notvstream.in/rainbowtv/rainbowtv/index.m3u8
@@ -254,9 +248,6 @@ http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-chno="88" tvg-id="D bhakthi TV" tvg-name="D bhakthi TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/Neon%20Dbhai%20Logo%20on%20Geometric%20Streaks.png?utm_source=chatgpt.com",D bhakthi TV
 https://stream.d6-pro.com/dbhakhi/live/index.m3u8
-
-#EXTINF:-1 tvg-id="aathitv" tvg-name="Aathi TV" tvg-chno="89" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/AATHI-TV/main/ChatGPT%20Image%20Aug%2021%2C%202026%2C%2005_01_45%20PM.png" group-title="Tamil",Aathi TV
-https://5790d294af2dc.streamlock.net/aathitv/aathitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3393" tvg-name-ta="NTC டிவி" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-region="Pattukkottai;Thanjavur" group-title="PLC" tvg-chno="90",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
