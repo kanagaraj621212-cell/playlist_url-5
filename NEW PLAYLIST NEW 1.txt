@@ -37,7 +37,7 @@ http://live.olidigital.in/olitv/olitv/index.m3u8
 http://play.applelive.in/riyatv/riyatv.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="dtv" tvg-name="D TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/D-TV-/main/d%20tv.jpg",13 D TV
-https://stream.d6-pro.com/Dtv/live/index.m3u8
+http://stream.d6-pro.com/dtv/live/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="rojatv" tvg-name="Roja TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Roja-TV-/main/rojo%20movies%202.jpg",14 Roja TV
 http://live.rojatv.cloud/rojatv/rojatv/index.m3u8
