@@ -22,7 +22,7 @@ https://rtmp.bmlive.net/bms/kctv/stream.m3u8
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="N TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/N-TV-/main/ChatGPT%20Image%20Jul%2018%2C%202026%2C%2001_42_25%20PM.png" tvg-chno="08",N TV
-http://galaxyott.live/hls/ntv.m3u8
+https://galaxyott.live/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="nilatv" tvg-name="NILA TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/NILA-TV-/main/Nila%20tv.jpg" tvg-chno="09",NILA TV
 http://live.olidigital.in/nilatv/nilatv/index.m3u8
@@ -58,7 +58,7 @@ http://live.olidigital.in/timetv/timetv/index.m3u8
 http://stream.galaxyott.live/live/utv/index.m3u8
 
 #EXTINF:-1 tvg-id="sanaplustv" tvg-name="Sana Plus TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Sana-plus-TV/main/SANA%20PLUS.jpg" tvg-chno="20",Sana Plus TV
-http://galaxyott.live/hls/sanaplus.m3u8
+https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:-1 tvg-id="anandhamtv" tvg-name="Anandham TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Anandham-TV/main/anantham%20tv.jpg%203.jpg" tvg-chno="21",Anandham TV
 http://server.sscloud7.in/live/anandhamtv/index.m3u8
@@ -67,13 +67,13 @@ http://server.sscloud7.in/live/anandhamtv/index.m3u8
 http://stream.galaxyott.live/live/subintv/index.m3u8
 
 #EXTINF:-1 tvg-id="dharshantv" tvg-name="Dharshan TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Dharshan-TV/main/ChatGPT%20Image%20Jul%2018%2C%202026%2C%2006_06_08%20PM.png" tvg-chno="23",Dharshan TV
-http://galaxyott.live/hls/dharshantv.m3u8
+https://galaxyott.live/hls/dharshantv.m3u8
 
 #EXTINF:-1 tvg-id="aaryaatv" tvg-name="Aaryaa TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Aaryaa-TV/main/Aaryaa%20tv.jpg" tvg-chno="24",Aaryaa TV
 http://live.sscloud7.in/live/aaryaatv/index.mpd
 
 #EXTINF:-1 tvg-id="kcmusic" tvg-name="KC Music" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Kc-Music-/main/kc%20tv.jpg" tvg-chno="25",KC Music
-http://rtmp.bmlive.net/bms/kcmusic/index.m3u8
+https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="ragatv" tvg-name="Raga TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Raga-TV-/main/Raga%20tv.jpg" tvg-chno="26",Raga TV
 http://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
