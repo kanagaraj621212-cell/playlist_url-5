@@ -49,7 +49,7 @@ https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
 
 #EXTINF:-1 tvg-id="suryatv" tvg-name="SURYA TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/SURYA-TV/main/surya%20tv.jpg" tvg-chno="17",SURYA TV
-http://galaxyott.live/hls/suryatv.m3u8
+https://galaxyott.live/hls/suryatv.m3u8
 
 #EXTINF:-1 tvg-id="timetv" tvg-name="TIME TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/TIME-TV-/main/time%20tv.jpg" tvg-chno="18",TIME TV
 http://live.olidigital.in/timetv/timetv/index.m3u8
@@ -271,7 +271,7 @@ http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
 https://view.rcserver.in/tmp_hls16/senthamiltv/index.m3u8
 #EXTINF:-1 tvg-id="SailamTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756798921_f97c3c8d-9b6e-410e-a4e0-c990a5c76bf5-removebg-preview.png" tvg-region="Salem" group-title="PLC" tvg-chno="94",Sailam TV
 https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
-#EXTINF:-1 tvg-id="MullaiTV" tvg-name-ta="முல்லை டிவி" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775660766_WhatsApp%20Image%202026-04-08%20at%207.00.55%20PM.jpeg" tvg-region="Erode" group-title="PLC" tvg-chno="95",Mullai TV [APCloud]
+#EXTINF:-1 tvg-id="MullaiTV" tvg-name-ta="முல்லை டிவி" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775660766_WhatsApp%20Image%202026-04-08%20at%207.00.55%20PM.jpeg" tvg-region="Erode" group-title="PLC" tvg-chno="95",Mullai TV
 https://live.apcloud.in/mullaitv/live/index.m3u8
 #EXTINF:-1 tvg-id="SachinTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158345_sachin_00000%20(1).png" tvg-region="Sambavarvadakarai" group-title="PLC" tvg-chno="96",Sachin TV
 https://ipcloud.live/sachintv/sachintvhd/index.m3u8
@@ -302,9 +302,9 @@ https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
 #EXTINF:-1 tvg-id="MathiTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753716414_madhi%20tv.png" tvg-region="Namakkal" group-title="PLC" tvg-chno="109",Mathi TV
 https://notvstream.in/mathitv/mathitv/index.m3u8
-#EXTINF:-1 tvg-id="RainbowTV" tvg-name-ta="ரெயின்போ டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" tvg-region="Erode" group-title="PLC" tvg-chno="110",Rainbow TV [CloudStream4K]
+#EXTINF:-1 tvg-id="RainbowTV" tvg-name-ta="ரெயின்போ டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" tvg-region="Erode" group-title="PLC" tvg-chno="110",Rainbow TV
 https://cloudstream4k.com/rainbowtv/ssdslive/index.m3u8
-#EXTINF:-1 tvg-id="SaiTVMadurai" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" tvg-region="Madurai" group-title="PLC" tvg-chno="111",Sai TV Madurai [NOTV]
+#EXTINF:-1 tvg-id="SaiTVMadurai" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" tvg-region="Madurai" group-title="PLC" tvg-chno="111",Sai TV Madurai 
 https://3.proxy.nellaiiptv.com/NOTV/SAITVMD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="SJSuryaTV" tvg-name-ta="டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1760613543_Sjsurya.png" tvg-region="Tirunelveli" group-title="PLC" tvg-chno="112",SJ Surya TV
 https://ipcloud.live/nellaitv/suriyatv/index.m3u8
