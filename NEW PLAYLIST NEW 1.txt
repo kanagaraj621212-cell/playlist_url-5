@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="mkptv" tvg-name="MKP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/MKP-CLOUD/main/MKP%20TV.png" tvg-chno="01",MKP TV
 http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="sanaplustv" tvg-name="Sana Plus TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Sana-plus-TV/main/SANA%20PLUS.jpg" tvg-chno="02",Sana Plus TV
+https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:-1 tvg-id="kanchitv" tvg-name="KANCHI TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/KANCHITV/main/33.jpg" tvg-chno="03",KANCHI TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
@@ -54,9 +56,6 @@ http://live.olidigital.in/timetv/timetv/index.m3u8
 
 #EXTINF:-1 tvg-id="utv" tvg-name="U TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/U-TV-/main/u%20tv.jpg" tvg-chno="19",U TV
 http://stream.galaxyott.live/live/utv/index.m3u8
-
-#EXTINF:-1 tvg-id="sanaplustv" tvg-name="Sana Plus TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Sana-plus-TV/main/SANA%20PLUS.jpg" tvg-chno="20",Sana Plus TV
-https://galaxyott.live/hls/sanaplus.m3u8
 
 #EXTINF:-1 tvg-id="anandhamtv" tvg-name="Anandham TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/Anandham-TV/main/anantham%20tv.jpg%203.jpg" tvg-chno="21",Anandham TV
 http://server.sscloud7.in/live/anandhamtv/index.m3u8
